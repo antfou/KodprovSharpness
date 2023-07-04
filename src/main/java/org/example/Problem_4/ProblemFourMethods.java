@@ -1,0 +1,4 @@
+package org.example.Problem_4;
+
+public class ProblemFourMethods {
+}
