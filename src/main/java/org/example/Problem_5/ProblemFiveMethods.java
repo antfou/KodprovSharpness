@@ -5,6 +5,7 @@ import java.util.List;
 
 public class ProblemFiveMethods {
 
+    //THIS METHOD DOES NOT WORK
     public double solveProblem(List<Double> operands, List<Character> operators){
         double result = 0;
         List<Double> operandsCopy = new ArrayList<>(operands);

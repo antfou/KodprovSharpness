@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f750af7d-1bcd-4377-bb7b-7bbd59d5ae6e" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_5/ProblemFiveMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_5/ProblemFiveMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ProblemFiveTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Problem_4/ProblemFourMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_4/ProblemFourMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Problem_4/ProblemFourMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_4/ProblemFourMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ProblemFourTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProblemFourTests.java" afterDir="false" />
+    <list default="true" id="f750af7d-1bcd-4377-bb7b-7bbd59d5ae6e" name="Changes" comment="tests and methods up to assignment 4 done, non-functional assignment 5 pushed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_2/ProblemTwoErrorhandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_2/ProblemTwoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Problem_5/ProblemFiveMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_5/ProblemFiveMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Problem_5/ProblemFiveMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_5/ProblemFiveMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ProblemTwoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProblemTwoTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,67 +46,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hexpo/Downloads/selenium-java-4.10.0/selenium-chrome-driver-4.10.0.jar",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hexpo/Downloads/selenium-java-4.10.0/selenium-chrome-driver-4.10.0.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.ProblemFiveTests.solveOneEquation_expecting_0_doesNOT_equals_6">
-    <configuration name="ProblemFiveTests.removeOperatorFromList_expecting_1_is_addition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="JUnit.All in ProgrammingTestSharpnessJava">
+    <configuration name="All in ProgrammingTestSharpnessJava" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingTestSharpnessJava" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
-      <option name="METHOD_NAME" value="removeOperatorFromList_expecting_1_is_addition" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemTwoTests.normalizeUrl_google_expecting_NOTequals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTestSharpnessJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProblemTwoTests" />
+      <option name="METHOD_NAME" value="normalizeUrl_google_expecting_NOTequals" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemFiveTests.removeOperatorFromList_expecting_1_is_multiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProblemTwoTests.normalizeUrl_google_expecting_equals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingTestSharpnessJava" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
-      <option name="METHOD_NAME" value="removeOperatorFromList_expecting_1_is_multiplication" />
+      <option name="MAIN_CLASS_NAME" value="ProblemTwoTests" />
+      <option name="METHOD_NAME" value="normalizeUrl_google_expecting_equals" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemFiveTests.solveOneEquation_expecting_0_doesNOT_equals_6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProblemTwoTests.test_url_expecting_false" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingTestSharpnessJava" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
-      <option name="METHOD_NAME" value="solveOneEquation_expecting_0_doesNOT_equals_6" />
+      <option name="MAIN_CLASS_NAME" value="ProblemTwoTests" />
+      <option name="METHOD_NAME" value="test_url_expecting_false" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProblemFiveTests.solveOneEquation_expecting_0_equals_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProblemTwoTests.test_url_expecting_true" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProgrammingTestSharpnessJava" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
-      <option name="METHOD_NAME" value="solveOneEquation_expecting_0_equals_1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProblemFiveTests.solveOneEquation_expecting_1_equals_12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProgrammingTestSharpnessJava" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
-      <option name="METHOD_NAME" value="solveOneEquation_expecting_1_equals_12" />
+      <option name="MAIN_CLASS_NAME" value="ProblemTwoTests" />
+      <option name="METHOD_NAME" value="test_url_expecting_true" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProblemFiveTests.solveOneEquation_expecting_0_doesNOT_equals_6" />
-        <item itemvalue="JUnit.ProblemFiveTests.solveOneEquation_expecting_0_equals_1" />
-        <item itemvalue="JUnit.ProblemFiveTests.solveOneEquation_expecting_1_equals_12" />
-        <item itemvalue="JUnit.ProblemFiveTests.removeOperatorFromList_expecting_1_is_multiplication" />
-        <item itemvalue="JUnit.ProblemFiveTests.removeOperatorFromList_expecting_1_is_addition" />
+        <item itemvalue="JUnit.All in ProgrammingTestSharpnessJava" />
+        <item itemvalue="JUnit.ProblemTwoTests.normalizeUrl_google_expecting_NOTequals" />
+        <item itemvalue="JUnit.ProblemTwoTests.normalizeUrl_google_expecting_equals" />
+        <item itemvalue="JUnit.ProblemTwoTests.test_url_expecting_true" />
+        <item itemvalue="JUnit.ProblemTwoTests.test_url_expecting_false" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +133,8 @@
       <workItem from="1688470718857" duration="13505000" />
       <workItem from="1688547719022" duration="1643000" />
       <workItem from="1688569818228" duration="1062000" />
-      <workItem from="1688629667238" duration="2494000" />
+      <workItem from="1688629667238" duration="4831000" />
+      <workItem from="1688634909159" duration="1272000" />
     </task>
     <task id="LOCAL−00001" summary="initial commit">
       <created>1688471704480</created>
@@ -151,7 +142,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1688471704480</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="tests and methods up to assignment 4 done, non-functional assignment 5 pushed">
+      <created>1688632969957</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1688632969957</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +167,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="tests and methods up to assignment 4 done, non-functional assignment 5 pushed" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests and methods up to assignment 4 done, non-functional assignment 5 pushed" />
   </component>
 </project>
