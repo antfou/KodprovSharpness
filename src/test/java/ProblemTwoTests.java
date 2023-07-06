@@ -23,7 +23,7 @@ public class ProblemTwoTests {
     }
 
     @Test
-    public void countHTMLtagsTest_Expecting_212_false(){
+    public void countHTMLtagsTest_Not_Expecting_212(){
         String testInput3 = "http://www.google.com/";
         int expected3 = 212;
         assertNotEquals(expected3, methods.countHTMLtags(testInput3));

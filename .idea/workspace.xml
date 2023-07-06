@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f750af7d-1bcd-4377-bb7b-7bbd59d5ae6e" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_5/ProblemFiveMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_5/ProblemFiveMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ProblemFiveTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Problem_4/ProblemFourMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_4/ProblemFourMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Problem_4/ProblemFourMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Problem_4/ProblemFourMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProblemFourTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProblemFourTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProblemTwoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProblemTwoTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S67CEEXlTrGqEfTQbZgVM3AwQh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hexpo/Downloads/selenium-java-4.10.0/selenium-chrome-driver-4.10.0.jar",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ProblemFiveTests.solveOneEquation_expecting_0_doesNOT_equals_6">
+    <configuration name="ProblemFiveTests.removeOperatorFromList_expecting_1_is_addition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTestSharpnessJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
+      <option name="METHOD_NAME" value="removeOperatorFromList_expecting_1_is_addition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemFiveTests.removeOperatorFromList_expecting_1_is_multiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTestSharpnessJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
+      <option name="METHOD_NAME" value="removeOperatorFromList_expecting_1_is_multiplication" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemFiveTests.solveOneEquation_expecting_0_doesNOT_equals_6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTestSharpnessJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
+      <option name="METHOD_NAME" value="solveOneEquation_expecting_0_doesNOT_equals_6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemFiveTests.solveOneEquation_expecting_0_equals_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTestSharpnessJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
+      <option name="METHOD_NAME" value="solveOneEquation_expecting_0_equals_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProblemFiveTests.solveOneEquation_expecting_1_equals_12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTestSharpnessJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProblemFiveTests" />
+      <option name="METHOD_NAME" value="solveOneEquation_expecting_1_equals_12" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProblemFiveTests.solveOneEquation_expecting_0_doesNOT_equals_6" />
+        <item itemvalue="JUnit.ProblemFiveTests.solveOneEquation_expecting_0_equals_1" />
+        <item itemvalue="JUnit.ProblemFiveTests.solveOneEquation_expecting_1_equals_12" />
+        <item itemvalue="JUnit.ProblemFiveTests.removeOperatorFromList_expecting_1_is_multiplication" />
+        <item itemvalue="JUnit.ProblemFiveTests.removeOperatorFromList_expecting_1_is_addition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f750af7d-1bcd-4377-bb7b-7bbd59d5ae6e" name="Changes" comment="" />
+      <created>1688455050920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688455050920</updated>
+      <workItem from="1688455053228" duration="4805000" />
+      <workItem from="1688460332754" duration="8598000" />
+      <workItem from="1688470718857" duration="13505000" />
+      <workItem from="1688547719022" duration="1643000" />
+      <workItem from="1688569818228" duration="1062000" />
+      <workItem from="1688629667238" duration="2494000" />
+    </task>
+    <task id="LOCAL−00001" summary="initial commit">
+      <created>1688471704480</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1688471704480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
